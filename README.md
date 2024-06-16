@@ -43,6 +43,25 @@ The script will:
 - Save the extracted text into the `extracted_text` folder, with each book's text stored in a separate file (`bookn.txt`).
 
 ## File Structure
+The project is structured as follows:
+
+```css
+Copy code
+urdu_LLM/
+├── app.py
+├── books/
+│   └── [Your PDF files here]
+├── pdf_images/
+│   └── [PNG images generated from PDFs]
+├── extracted_text/
+│   └── book1.txt
+│   └── book2.txt
+│   └── ...
+├── requirements.txt
+└── README.md
+
+```
+
 - `books/`: Folder to store PDF files to be processed.
 - `pdf_images/`: Folder where converted PNG images from PDFs will be saved.
 - `extracted_text/`: Folder where the extracted text files will be stored (`book1.txt`, `book2.txt`, etc.).
