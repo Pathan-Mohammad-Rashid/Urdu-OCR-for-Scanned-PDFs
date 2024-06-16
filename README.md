@@ -46,8 +46,7 @@ The script will:
 The project is structured as follows:
 
 ```css
-Copy code
-urdu_LLM/
+Urdu-OCR-for-Scanned-PDFs/
 ├── app.py
 ├── books/
 │   └── [Your PDF files here]
