@@ -20,8 +20,8 @@ The `urdu_ocr_for_scanned_pdfs` repository automates the process of extracting t
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/Pathan-Mohammad-Rashid/urdu_LLM.git](https://github.com/Pathan-Mohammad-Rashid/Urdu-OCR-for-Scanned-PDFs.git)
-cd urdu_LLM
+git clone https://github.com/Pathan-Mohammad-Rashid/Urdu-OCR-for-Scanned-PDFs.git
+cd Urdu-OCR-for-Scanned-PDFs
 pip install -r requirements.txt
 ```
 
