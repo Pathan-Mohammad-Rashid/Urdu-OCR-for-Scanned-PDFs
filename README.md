@@ -7,6 +7,7 @@ This repository provides a solution for extracting Urdu text from scanned PDFs u
 - [Installation](#installation)
 - [Usage](#usage)
 - [File Structure](#file-structure)
+- [Citation](#citation)
 - [Contributing](#contributing)
 - [License](#license)
 
